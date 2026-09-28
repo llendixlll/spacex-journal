@@ -1,0 +1,4 @@
+# Dart / Pub
+.dart_tool/
+build/
+.packages

@@ -1,0 +1,23 @@
+[
+  {
+    "flight_number": 1,
+    "name": "FalconSat",
+    "year": 2006,
+    "rocket": "Falcon 1",
+    "success": false
+  },
+  {
+    "flight_number": 4,
+    "name": "RatSat",
+    "year": 2008,
+    "rocket": "Falcon 1",
+    "success": true
+  },
+  {
+    "flight_number": 94,
+    "name": "Crew Dragon Demo-2",
+    "year": 2020,
+    "rocket": "Falcon 9",
+    "success": true
+  }
+]

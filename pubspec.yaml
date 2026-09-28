@@ -1,0 +1,9 @@
+name: spacex_journal
+description: Консольний застосунок «Журнал космічних запусків» (Кросплатформенне програмування, варіант 12).
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^6.0.0
